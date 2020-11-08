@@ -1,4 +1,4 @@
-### Hi there, I'm José Luis! 👋
+### Hello, World! I'm José Luis! 👋
 
 - 🔭 I’m currently working on Java development
 - 🌱 I’m currently learning C
