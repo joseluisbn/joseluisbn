@@ -1,6 +1,6 @@
 ### Hello, World! I'm José Luis! 👋
 
-- 🔭 I’m currently working on Java and Android development
+- 🚀 I’m currently working on Java and Android development
 - 🌱 I’m currently learning C
 
 <!--
