@@ -2,7 +2,9 @@
 
 - 🚀 I’m currently working on Java and Android development
 
-<br>
+
+**Experimented with**
+
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
