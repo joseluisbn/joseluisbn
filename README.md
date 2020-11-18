@@ -2,6 +2,17 @@
 
 - 🚀 I’m currently working on Java and Android development
 
+<br>
+<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/git.svg" alt="Git" height="40px" />
+
+
 <!--
 **joseluisbn/joseluisbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
