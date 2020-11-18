@@ -4,8 +4,6 @@
 
 
 **Some skills:**
-
-<br>
 <br>
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
