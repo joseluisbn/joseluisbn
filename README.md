@@ -9,7 +9,6 @@
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
