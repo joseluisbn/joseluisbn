@@ -10,7 +10,6 @@
 <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/git.svg" alt="Git" height="40px" />
