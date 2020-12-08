@@ -1,7 +1,7 @@
 ### Hello, World! I'm José Luis! 👋
 
 - 🚀 I’m currently working on Java and Android development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native
 
 #### Some skills:
 
