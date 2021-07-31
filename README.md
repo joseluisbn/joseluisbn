@@ -5,17 +5,15 @@
 
 #### Skills:
 
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-SAP-informational?style=flat&logo=SAP&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
 
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/androidstudio.svg" alt="Android Studio" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/git.svg" alt="Git" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/sap.svg" alt="SAP" height="40px" />
-
-<br>
-<br>
 <br>
 <a href="https://github.com/joseluisbn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
