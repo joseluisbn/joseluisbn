@@ -1,6 +1,6 @@
 ### Hello, World! I'm José Luis! 👋
 
-- 🚀 I’m currently working on .NET development
+- 🚀 I’m currently working on Android and .NET development
 - 🌱 I’m currently learning React Native and Angular
 
 #### Skills:
