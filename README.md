@@ -1,7 +1,7 @@
 ### Hello, World! I'm José Luis! 👋
 
-- 🚀 I’m currently working on Android and Python development
-- 🌱 I’m currently learning 
+- 🚀 I’m currently working on DevOps and Python development.
+<!--- 🌱 I’m currently learning -->
 
 #### Skills:
 
