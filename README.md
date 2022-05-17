@@ -15,12 +15,12 @@
 ![](https://img.shields.io/badge/SAP-informational?style=flat&logo=SAP&logoColor=white&color=189AB4)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=189AB4)
 
-<!---
+
 <br>
 <a href="https://github.com/joseluisbn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
--->
+
 <a href="https://github.com/joseluisbn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joseluisbn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="José Luis' GitHub Stats" />
 </a>
