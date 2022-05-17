@@ -5,6 +5,7 @@
 
 #### Skills:
 
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=189AB4)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=189AB4)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=189AB4)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=189AB4)
