@@ -5,25 +5,21 @@
 
 #### Skills:
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/SAP-informational?style=flat&logo=SAP&logoColor=white&color=189AB4)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=189AB4)
-
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/SAP-informational?style=flat&logo=SAP&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3572a5)
 
 <br>
-<a href="https://github.com/joseluisbn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/joseluisbn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joseluisbn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="José Luis' GitHub Stats" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joseluisbn&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 
 <!--
 **joseluisbn/joseluisbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
