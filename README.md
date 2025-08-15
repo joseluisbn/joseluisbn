@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/SAP-informational?style=flat&logo=SAP&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3572a5)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=3572a5)
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=3572a5)
