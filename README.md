@@ -1,39 +1,56 @@
-### Hello, World! I'm José Luis! 👋
+### 👋 Hello, World! I'm José Luis
 
-- 🚀 I’m currently working on DevSecOps and Python development.
-<!--- 🌱 I’m currently learning -->
+🚀 DevSecOps Engineer & Python Developer  
+🔐 Focused on secure software delivery, automation, and clean engineering practices  
+💡 Passionate about building reliable systems and learning new technologies
 
-#### Skills:
+---
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/SAP-informational?style=flat&logo=SAP&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=3572a5)
+## 🛠️ Tech Stack
 
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=3572a5)
-![](https://img.shields.io/badge/Sonarqube-informational?style=flat&logo=sonarqube&logoColor=white&color=3572a5)
+### Languages
+![](https://img.shields.io/badge/Python-3572a5?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
+### Databases & Platforms
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joseluisbn&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+### Cloud & Infrastructure
+![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+### DevOps & Tooling
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-<!--
-**joseluisbn/joseluisbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎮 Interests & Hobbies
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ **Writing** — I enjoy crafting essays, cultural analysis, and exploring narrative structures.  
+🎮 **Video Games** — Passionate about retro gaming, game design, and the cultural impact of interactive media.  
+📚 **Reading** — From classics to modern speculative fiction, always looking for new perspectives.  
+🕹️ **Tech & Emulation** — Interested in hardware fidelity, emulation accuracy, and DIY tech projects.
+
+---
+
+## 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joseluisbn&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisbn&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5" />
+
+<br clear="both"/>
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluisbn/)
